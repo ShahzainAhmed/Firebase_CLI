@@ -6,3 +6,4 @@ Run these in your terminal to install CLI
 <pre>dart pub global activate flutterfire_cli</pre>
 <pre>flutterfire configure</pre>
 <pre>flutter pub add firebase_core</pre>
+<pre>flutterfire configure</pre>
